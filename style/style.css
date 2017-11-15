@@ -1,0 +1,37 @@
+/* table style */
+td{
+  text-align: center;
+}
+
+th{
+  background-color: #b1dee2;
+}
+
+.form-field-item {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.form-field-item.part {
+  border-top: 1px solid #e6e4df;
+}
+
+/* messages style*/
+.message{
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.reussi{
+  border-color: #c6f9bd;
+  border-style: solid;
+  background: #dcffdc;
+  color: #0b3801;
+}
+
+.echec{
+  border-color: #f5a7b5;
+  border-style: solid;
+  background: #fbebef;
+  color: #980606;
+}
